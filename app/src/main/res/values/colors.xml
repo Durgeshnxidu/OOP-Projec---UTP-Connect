@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#A7D5C1</color>
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="black">#000000</color>
+    <color name="teal_200">#03332F</color>
+    <color name="white">#FDFDFD</color>
+    <attr name="colorSecondaryVariant">#223B43</attr>
+    <attr name="colorOnSecondary">#FFFFFF</attr>
+    <attr name="colorOnPrimary">#FFDDBDBD</attr>
+    <attr name="colorPrimaryVariant" format="reference|color" />
+
+</resources>
